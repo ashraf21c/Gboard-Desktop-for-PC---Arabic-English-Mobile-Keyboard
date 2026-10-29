@@ -1,0 +1,6 @@
+{
+  "name": "Gboard Desktop - Arabic & English Mobile Keyboard",
+  "description": "Android Google Keyboard (Gboard) experience for Windows and Linux with Arabic and English layouts, physical keyboard remapping, and cross-platform installation files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
